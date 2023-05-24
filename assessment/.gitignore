@@ -5,4 +5,3 @@ cypress
 screenshots
 .idea/**
 .mp4
-package-lock.json
