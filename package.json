@@ -1,0 +1,9 @@
+{
+	"dependencies": {
+		"compression": "^1.7.4",
+		"dotenv": "^16.0.3",
+		"helmet": "^7.0.0",
+		"mongoose-unique-validator": "^4.0.0",
+		"passport": "^0.6.0"
+	}
+}
